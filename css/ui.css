@@ -4,3 +4,7 @@
 	color: white;
 	border: none;
 }
+
+.end-button {
+	background: linear-gradient(#019, #0af);
+}
