@@ -11,3 +11,8 @@ Made in Construct 3 (again) so i can submit it as school work
 Almost everyone has wanted to try drift on a shopping cart at high speed through a store, but couldn’t due to store rules.  
 Well dream no more, with this game you can drift all you want!  
 Also remember to get the groceries, the store is closing soon and you don't want to be hungry.  
+
+### Controls
+
+WASD and Arrow Keys - Movement  
+Go close to items to collect  
